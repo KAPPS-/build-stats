@@ -1,3 +1,28 @@
 {
-  "GeocodedResearchReleases":{}
+  "GeocodedResearchReleases": {
+    "Level1": [
+      {
+        "donors": 93, 
+        "start_year": "2001", 
+        "geocoded_commitments": 14444479755.589994, 
+        "locations": 7168, 
+        "scores": {
+          "date_coverage": 100.0, 
+          "geographic_coverage": 98.8, 
+          "geographic_precision": 28.91, 
+          "compare_financials": 0.0, 
+          "sector_detail": 95.7
+        }, 
+        "dataset_title": "AfghanistanAIMS", 
+        "total_projects": 1580, 
+        "runs": 1, 
+        "end_year": "2014", 
+        "geocoded_projects": 1561, 
+        "last_run": "2016-02-18T10:58:20.642494", 
+        "geocoded_disbursements": 1060224656.6800002, 
+        "total_disbursements": 1065468495.1700002, 
+        "total_commitments": 14494519368.079992
+      }
+    ]
+  }
 }
