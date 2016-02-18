@@ -6,14 +6,6 @@
         "start_year": "2001", 
         "total_projects": 1580, 
         "end_year": "2014", 
-        "geocoded_commitments": 14444479755.589994, 
-        "geocoded_projects": 1561, 
-        "runs": 1, 
-        "last_run": "2016-02-18T10:58:20.642494", 
-        "locations": 7168, 
-        "geocoded_disbursements": 1060224656.6800002, 
-        "total_disbursements": 1065468495.1700002, 
-        "total_commitments": 14494519368.079992, 
         "scores": {
           "date_coverage": 100.0, 
           "geographic_coverage": 98.8, 
@@ -21,6 +13,14 @@
           "compare_financials": 0.0, 
           "sector_detail": 95.7
         }, 
+        "geocoded_projects": 1561, 
+        "runs": 1, 
+        "last_run": "2016-02-18T10:58:20.642494", 
+        "locations": 7168, 
+        "geocoded_disbursements": 1060224656.6800002, 
+        "total_disbursements": 1065468495.1700002, 
+        "total_commitments": 14494519368.079992, 
+        "geocoded_commitments": 14444479755.589994, 
         "dataset_title": "AfghanistanAIMS"
       }, 
       {
@@ -28,13 +28,7 @@
         "start_year": "2000", 
         "total_projects": 301, 
         "end_year": "2015", 
-        "scores": {
-          "date_coverage": 89.37, 
-          "geographic_coverage": 95.68, 
-          "geographic_precision": 91.95, 
-          "compare_financials": 0.0, 
-          "sector_detail": 76.08
-        }, 
+        "geocoded_commitments": 18546465596.250008, 
         "geocoded_projects": 288, 
         "runs": 1, 
         "last_run": "2016-02-18T11:23:52.752446", 
@@ -42,7 +36,13 @@
         "geocoded_disbursements": 0, 
         "total_disbursements": 0, 
         "total_commitments": 18822704796.210003, 
-        "geocoded_commitments": 18546465596.250008, 
+        "scores": {
+          "date_coverage": 89.37, 
+          "geographic_coverage": 95.68, 
+          "geographic_precision": 91.95, 
+          "compare_financials": 0.0, 
+          "sector_detail": 76.08
+        }, 
         "dataset_title": "BangladeshSelectDonors"
       }, 
       {
@@ -50,14 +50,6 @@
         "start_year": "2001", 
         "total_projects": 1017, 
         "end_year": "2015", 
-        "geocoded_commitments": 117027089015.83849, 
-        "geocoded_projects": 1014, 
-        "runs": 1, 
-        "last_run": "2016-02-18T11:24:19.014965", 
-        "locations": 1928, 
-        "geocoded_disbursements": 0, 
-        "total_disbursements": 0, 
-        "total_commitments": 117027089015.83849, 
         "scores": {
           "date_coverage": 16.62, 
           "geographic_coverage": 99.71, 
@@ -65,6 +57,14 @@
           "compare_financials": 0.0, 
           "sector_detail": 93.41
         }, 
+        "geocoded_projects": 1014, 
+        "runs": 1, 
+        "last_run": "2016-02-18T11:24:19.014965", 
+        "locations": 1928, 
+        "geocoded_disbursements": 0, 
+        "total_disbursements": 0, 
+        "total_commitments": 117027089015.83849, 
+        "geocoded_commitments": 117027089015.83849, 
         "dataset_title": "TUFFChinaEcologicalHotSpots"
       }, 
       {
@@ -72,13 +72,7 @@
         "start_year": "1995", 
         "total_projects": 1076, 
         "end_year": "2014", 
-        "scores": {
-          "date_coverage": 93.4, 
-          "geographic_coverage": 35.22, 
-          "geographic_precision": 94.83, 
-          "compare_financials": 6.58, 
-          "sector_detail": 81.6
-        }, 
+        "geocoded_commitments": 3150754459.4130025, 
         "geocoded_projects": 379, 
         "runs": 1, 
         "last_run": "2016-02-18T11:24:57.957888", 
@@ -86,7 +80,13 @@
         "geocoded_disbursements": 1880837270.6410005, 
         "total_disbursements": 4612884549.299, 
         "total_commitments": 6548670559.059006, 
-        "geocoded_commitments": 3150754459.4130025, 
+        "scores": {
+          "date_coverage": 93.4, 
+          "geographic_coverage": 35.22, 
+          "geographic_precision": 94.83, 
+          "compare_financials": 6.58, 
+          "sector_detail": 81.6
+        }, 
         "dataset_title": "HondurasAMP"
       }, 
       {
@@ -94,14 +94,6 @@
         "start_year": "1992", 
         "total_projects": 880, 
         "end_year": "2014", 
-        "geocoded_commitments": 3093138194, 
-        "geocoded_projects": 856, 
-        "runs": 1, 
-        "last_run": "2016-02-18T11:25:11.917526", 
-        "locations": 2314, 
-        "geocoded_disbursements": 2575570215, 
-        "total_disbursements": 2651238540, 
-        "total_commitments": 3167181627, 
         "scores": {
           "date_coverage": 100.0, 
           "geographic_coverage": 97.27, 
@@ -109,6 +101,14 @@
           "compare_financials": 0.01, 
           "sector_detail": 92.27
         }, 
+        "geocoded_projects": 856, 
+        "runs": 1, 
+        "last_run": "2016-02-18T11:25:11.917526", 
+        "locations": 2314, 
+        "geocoded_disbursements": 2575570215, 
+        "total_disbursements": 2651238540, 
+        "total_commitments": 3167181627, 
+        "geocoded_commitments": 3093138194, 
         "dataset_title": "SierraLeoneDAD"
       }, 
       {
@@ -116,13 +116,7 @@
         "start_year": "1994", 
         "total_projects": 693, 
         "end_year": "2013", 
-        "scores": {
-          "date_coverage": 100.0, 
-          "geographic_coverage": 95.96, 
-          "geographic_precision": 61.93, 
-          "compare_financials": 1.07, 
-          "sector_detail": 95.96
-        }, 
+        "geocoded_commitments": 810396377.7100002, 
         "geocoded_projects": 665, 
         "runs": 1, 
         "last_run": "2016-02-18T11:25:41.426878", 
@@ -130,22 +124,20 @@
         "geocoded_disbursements": 0, 
         "total_disbursements": 0, 
         "total_commitments": 832342858.7300001, 
-        "geocoded_commitments": 810396377.7100002, 
+        "scores": {
+          "date_coverage": 100.0, 
+          "geographic_coverage": 95.96, 
+          "geographic_precision": 61.93, 
+          "compare_financials": 1.07, 
+          "sector_detail": 95.96
+        }, 
         "dataset_title": "ColombiaAIMS"
       }, 
       {
         "donors": 56, 
         "start_year": "1978", 
-        "runs": 1, 
         "total_projects": 1709, 
         "end_year": "2014", 
-        "geocoded_commitments": 10748426766.376005, 
-        "geocoded_projects": 565, 
-        "locations": 2426, 
-        "last_run": "2016-02-18T11:25:42.361119", 
-        "geocoded_disbursements": 6884083011.997999, 
-        "total_disbursements": 15997709293.961966, 
-        "total_commitments": 26305209802.29197, 
         "scores": {
           "date_coverage": 84.26, 
           "geographic_coverage": 33.06, 
@@ -153,13 +145,29 @@
           "compare_financials": 1.51, 
           "sector_detail": 100.0
         }, 
+        "geocoded_projects": 565, 
+        "runs": 1, 
+        "last_run": "2016-02-18T11:25:42.361119", 
+        "locations": 2426, 
+        "geocoded_disbursements": 6884083011.997999, 
+        "total_disbursements": 15997709293.961966, 
+        "total_commitments": 26305209802.29197, 
+        "geocoded_commitments": 10748426766.376005, 
         "dataset_title": "UgandaAMP"
       }, 
       {
         "donors": 79, 
         "start_year": "2000", 
+        "runs": 1, 
+        "total_projects": 1582, 
+        "end_year": "2012", 
         "geocoded_commitments": 6736527922.469997, 
+        "geocoded_projects": 406, 
         "locations": 1124, 
+        "last_run": "2016-02-18T11:25:46.887517", 
+        "geocoded_disbursements": 3351062986.7000017, 
+        "total_disbursements": 7338171507.3200035, 
+        "total_commitments": 17524929936.009995, 
         "scores": {
           "date_coverage": 42.73, 
           "geographic_coverage": 25.66, 
@@ -167,15 +175,29 @@
           "compare_financials": 0.0, 
           "sector_detail": 100.0
         }, 
-        "dataset_title": "SenegalAMP", 
-        "total_projects": 1582, 
+        "dataset_title": "SenegalAMP"
+      }, 
+      {
+        "donors": 21, 
+        "start_year": "2002", 
+        "geocoded_commitments": 9659112600, 
+        "locations": 3624, 
+        "scores": {
+          "date_coverage": 100.0, 
+          "geographic_coverage": 98.95, 
+          "geographic_precision": 83.64, 
+          "compare_financials": 10.79, 
+          "sector_detail": 89.76
+        }, 
+        "dataset_title": "IraqDAD", 
+        "total_projects": 1338, 
         "runs": 1, 
-        "end_year": "2012", 
-        "geocoded_projects": 406, 
-        "last_run": "2016-02-18T11:25:46.887517", 
-        "geocoded_disbursements": 3351062986.7000017, 
-        "total_disbursements": 7338171507.3200035, 
-        "total_commitments": 17524929936.009995
+        "end_year": "2014", 
+        "geocoded_projects": 1324, 
+        "last_run": "2016-02-18T11:25:52.585553", 
+        "geocoded_disbursements": 3710551718, 
+        "total_disbursements": 3727768427, 
+        "total_commitments": 9685503171
       }
     ]
   }
